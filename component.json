@@ -1,0 +1,9 @@
+{
+  "name": "gtl-compiler",
+  "description": "Grid Template Language compiler",
+  "version": "0.0.1",
+  "scripts": [
+    "lib/gtl-compiler.js"
+  ],
+  "main": "lib/gtl-compiler.js"
+}
